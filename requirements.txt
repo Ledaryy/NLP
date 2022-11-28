@@ -7,6 +7,8 @@ colorama==0.4.6
 confection==0.0.3
 cymem==2.0.7
 Cython==0.29.28
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.1/en_core_web_md-3.4.1-py3-none-any.whl
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
 gensim==4.2.0
 idna==3.4
 Jinja2==3.1.2
